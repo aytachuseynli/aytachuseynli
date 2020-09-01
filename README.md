@@ -1,4 +1,4 @@
-### Hi there, I'm Aytac 👋
+### Hi there, I'm Aytac 👋☺
 
 ## I'm a Developer, teacher and student 😄!
 ### Connect with me:
