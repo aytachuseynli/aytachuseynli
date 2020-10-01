@@ -1,6 +1,6 @@
 ### Hi there, I'm Aytac 👋☺
 
-## I'm a Developer, teacher and student ))
+## I'm a Developer ))
 
 ### Connect with me:
 
