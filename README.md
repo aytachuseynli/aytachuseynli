@@ -1,6 +1,7 @@
 ### Hi there, I'm Aytac 👋☺
 
-## I'm a Developer, teacher and student 😄!
+## I'm a Developer, teacher and student ))
+
 ### Connect with me:
 
 [<img align="left" alt="aytachuseynli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
