@@ -1,6 +1,6 @@
 ### Hi there, I'm Aytac 👋☺
 
-## I'm a mobile developer ))
+## I'm an android developer ))
 
 ### Connect with me:
 
