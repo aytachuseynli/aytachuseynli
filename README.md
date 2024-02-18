@@ -19,6 +19,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytachuseynli&layout=compact"/>
 </div>
 
+
+## 🛠 Technical Skills
+
+-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&color=01EB4F)
+-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&color=orange)
+-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=blue)
+-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+<div></div>
+
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=orange)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+
+
+<br>
+
 ## 💬 Let's Connect!
 
 Open to collaborations and exciting projects. Reach out:
