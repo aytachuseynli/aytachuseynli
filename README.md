@@ -35,6 +35,8 @@
 
 <br>
 
+![Visitor Count](https://profile-counter.glitch.me/{aytachuseynli}/count.svg)
+
 ## 💬 Let's Connect!
 
 Open to collaborations and exciting projects. Reach out:
