@@ -37,9 +37,6 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{aytachuseynli}/count.svg)
  
- <br>
- 
- ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=aytachuseynli)
 
 
 ## 💬 Let's Connect!
