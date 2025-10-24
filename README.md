@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/aytajh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:aytachuseynli20@gmail.com">
+  <a href="mailto:aytaj.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -43,7 +43,7 @@
 
 Open to collaborations and exciting projects. Reach out:
 
-- 📧 Email me: [aytachuseynli20@gmail.com](mailto:aytachuseynli20@gmail.com)
+- 📧 Email me: [aytaj.dev@gmail.com](mailto:aytaj.dev@gmail.com)
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/aytajh/)
 
 Let's build something awesome together! 🚀
